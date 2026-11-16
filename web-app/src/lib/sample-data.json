@@ -1,0 +1,244 @@
+{
+  "spots": [
+    {
+      "slug": "lake-pinamaloy",
+      "name": "Lake Pinamaloy",
+      "tagline": "A mirror of sky cradled by the highlands",
+      "description": "A tranquil highland lake ringed by farmland and low hills, Lake Pinamaloy is the quiet heart of Don Carlos. Arrive at first light when mist drifts across the water, rent a small boat, or simply walk the shore and watch herons skim the surface. Local vendors sell grilled corn and fresh buko by the water's edge.",
+      "category": "nature",
+      "location": { "address": "Barangay Pinamaloy, Don Carlos, Bukidnon", "latitude": 7.6833, "longitude": 124.9833 },
+      "images": [
+        "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1600&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["Sunrise boat rides", "Birdwatching", "Lakeside picnics"],
+      "entranceFee": "Free",
+      "openingHours": "Open daily, 5:00 AM – 6:00 PM",
+      "rating": 4.8,
+      "visitCount": 1840,
+      "featured": true
+    },
+    {
+      "slug": "highland-ridge-viewpoint",
+      "name": "Highland Ridge Viewpoint",
+      "tagline": "Where the clouds roll in below your feet",
+      "description": "A short but steep climb rewards you with sweeping views of the Bukidnon plateau — layered ridgelines, patchwork farms and, on clear mornings, distant volcanic peaks. Bring a jacket: the wind up here is cool even at midday.",
+      "category": "scenic",
+      "location": { "address": "Upper barangays, Don Carlos, Bukidnon", "latitude": 7.70, "longitude": 125.00 },
+      "images": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["Sea of clouds at dawn", "Photography", "Ridge hiking"],
+      "entranceFee": "₱20 environmental fee",
+      "openingHours": "Best at 4:30 AM – 8:00 AM",
+      "rating": 4.7,
+      "visitCount": 1215,
+      "featured": true
+    },
+    {
+      "slug": "riverside-falls",
+      "name": "Riverside Falls",
+      "tagline": "Cool, clear water hidden in the forest",
+      "description": "Follow a shaded riverside trail to a cascade spilling into a deep, cold pool. Locals come here on weekends to swim and picnic; visit on a weekday for a near-private dip.",
+      "category": "adventure",
+      "location": { "address": "Don Carlos, Bukidnon", "latitude": 7.66, "longitude": 124.97 },
+      "images": [
+        "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1600&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["Swimming", "River trekking", "Picnic huts"],
+      "entranceFee": "₱30",
+      "openingHours": "Open daily, 7:00 AM – 5:00 PM",
+      "rating": 4.6,
+      "visitCount": 980,
+      "featured": true
+    },
+    {
+      "slug": "heritage-balete-tree",
+      "name": "Heritage Balete Tree",
+      "tagline": "A living cathedral of roots and legend",
+      "description": "Generations of stories surround this towering balete tree, its aerial roots forming arches large enough to walk through. Local guides share folklore of the area's first settlers and the tree's place in community memory.",
+      "category": "culture",
+      "location": { "address": "Don Carlos, Bukidnon", "latitude": 7.68, "longitude": 124.99 },
+      "images": [
+        "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["Guided folklore walks", "Photography", "Shaded rest area"],
+      "entranceFee": "Free",
+      "openingHours": "Open daily, 6:00 AM – 6:00 PM",
+      "rating": 4.5,
+      "visitCount": 640,
+      "featured": false
+    },
+    {
+      "slug": "pine-forest-trail",
+      "name": "Pine Forest Trail",
+      "tagline": "Misty paths through cool highland woods",
+      "description": "A gentle loop trail through pine and native forest, often wrapped in morning fog. Ideal for slow walks, trail runs and forest bathing. Interpretive markers introduce native plants and birds.",
+      "category": "nature",
+      "location": { "address": "Don Carlos, Bukidnon", "latitude": 7.71, "longitude": 124.96 },
+      "images": [
+        "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=1600&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["3 km loop", "Forest bathing", "Trail running"],
+      "entranceFee": "₱20",
+      "openingHours": "Open daily, 6:00 AM – 5:00 PM",
+      "rating": 4.6,
+      "visitCount": 760,
+      "featured": true
+    },
+    {
+      "slug": "starlight-campgrounds",
+      "name": "Starlight Campgrounds",
+      "tagline": "Sleep under the clearest skies in Mindanao",
+      "description": "Far from city lights, these open grasslands offer some of the darkest night skies in the region. Pitch a tent or rent one on site, gather around a bonfire, and watch the Milky Way rise over the ridges.",
+      "category": "adventure",
+      "location": { "address": "Don Carlos, Bukidnon", "latitude": 7.72, "longitude": 125.01 },
+      "images": [
+        "https://images.unsplash.com/photo-1517824806704-9040b037703b?w=1600&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["Stargazing", "Tent rentals", "Bonfire nights"],
+      "entranceFee": "₱100 overnight",
+      "openingHours": "Check-in from 2:00 PM",
+      "rating": 4.7,
+      "visitCount": 530,
+      "featured": false
+    },
+    {
+      "slug": "town-plaza-heritage-walk",
+      "name": "Town Plaza Heritage Walk",
+      "tagline": "The everyday rhythm of a highland town",
+      "description": "Start at the municipal plaza and wander past the parish church, the public market and family-run bakeries. It's the best way to taste local life — and to pick up pasalubong before heading home.",
+      "category": "culture",
+      "location": { "address": "Poblacion, Don Carlos, Bukidnon", "latitude": 7.6811, "longitude": 124.9935 },
+      "images": [
+        "https://images.unsplash.com/photo-1523905330026-b8bd1f5f320e?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["Public market", "Local bakeries", "Parish church"],
+      "entranceFee": "Free",
+      "openingHours": "Any time",
+      "rating": 4.4,
+      "visitCount": 890,
+      "featured": false
+    },
+    {
+      "slug": "valley-farm-trail",
+      "name": "Valley Farm Trail",
+      "tagline": "Rolling green fields as far as the eye can see",
+      "description": "Walk or cycle through rolling farmland of corn, rice and sugarcane. Many farms welcome visitors for harvest experiences, fresh produce and a glimpse into the agricultural life that sustains Don Carlos.",
+      "category": "scenic",
+      "location": { "address": "Don Carlos, Bukidnon", "latitude": 7.67, "longitude": 125.02 },
+      "images": [
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1600&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1600&q=80&auto=format&fit=crop"
+      ],
+      "highlights": ["Cycling routes", "Farm visits", "Golden-hour views"],
+      "entranceFee": "Free",
+      "openingHours": "Daylight hours",
+      "rating": 4.5,
+      "visitCount": 470,
+      "featured": false
+    }
+  ],
+  "events": [
+    {
+      "slug": "lake-sunrise-run",
+      "title": "Lake Pinamaloy Sunrise Run",
+      "description": "A 5K and 10K fun run along the lakeshore as the sun comes up over the highlands. Finishers receive a medal and a hot breakfast from local vendors.",
+      "daysFromNow": 12,
+      "durationDays": 0,
+      "location": "Lake Pinamaloy",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1600&q=80&auto=format&fit=crop",
+      "featured": true
+    },
+    {
+      "slug": "highland-harvest-fair",
+      "title": "Highland Harvest Fair",
+      "description": "Three days of farm-fresh produce, cooking demonstrations, local crafts and live music celebrating the agricultural heritage of Don Carlos.",
+      "daysFromNow": 28,
+      "durationDays": 2,
+      "location": "Municipal Plaza, Poblacion",
+      "category": "Festival",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=1600&q=80&auto=format&fit=crop",
+      "featured": true
+    },
+    {
+      "slug": "stargazing-night",
+      "title": "Highland Stargazing Night",
+      "description": "Guided astronomy night with telescopes, star stories and hot cacao at the campgrounds. Limited slots — register at the tourism office.",
+      "daysFromNow": 45,
+      "durationDays": 0,
+      "location": "Starlight Campgrounds",
+      "category": "Nature",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?w=1600&q=80&auto=format&fit=crop",
+      "featured": false
+    },
+    {
+      "slug": "town-fiesta",
+      "title": "Don Carlos Town Fiesta",
+      "description": "The town's biggest celebration — street dancing, a grand parade, food stalls, beauty pageant and fireworks over the plaza.",
+      "daysFromNow": 70,
+      "durationDays": 3,
+      "location": "Poblacion, Don Carlos",
+      "category": "Festival",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=1600&q=80&auto=format&fit=crop",
+      "featured": true
+    }
+  ],
+  "businesses": [
+    {
+      "slug": "pinamaloy-lakeside-inn",
+      "name": "Pinamaloy Lakeside Inn",
+      "description": "Cozy wooden cottages steps from the water, with breakfast on the veranda and kayaks for guests.",
+      "category": "hotel",
+      "priceRange": "₱1,500 – ₱3,500 / night",
+      "contact": { "phone": "+63 900 000 0001", "email": "stay@example.com", "address": "Lakeshore Road, Pinamaloy" },
+      "images": ["https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200&q=80&auto=format&fit=crop"],
+      "rating": 4.7
+    },
+    {
+      "slug": "valley-view-resort",
+      "name": "Valley View Resort",
+      "description": "Infinity pool, garden suites and panoramic views over the valley — the place to slow down for a weekend.",
+      "category": "resort",
+      "priceRange": "₱3,000 – ₱6,500 / night",
+      "contact": { "phone": "+63 900 000 0002", "email": "hello@example.com", "address": "Don Carlos, Bukidnon" },
+      "images": ["https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80&auto=format&fit=crop"],
+      "rating": 4.8
+    },
+    {
+      "slug": "highland-table",
+      "name": "The Highland Table",
+      "description": "Farm-to-table Filipino cooking with produce from Don Carlos farms. Try the native chicken tinola and fresh corn soup.",
+      "category": "restaurant",
+      "priceRange": "₱250 – ₱600 / person",
+      "contact": { "phone": "+63 900 000 0003", "email": "eat@example.com", "address": "Poblacion, Don Carlos" },
+      "images": ["https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80&auto=format&fit=crop"],
+      "rating": 4.6
+    },
+    {
+      "slug": "plaza-kapihan",
+      "name": "Plaza Kapihan",
+      "description": "Bukidnon-grown coffee, native kakanin and slow mornings facing the town plaza.",
+      "category": "restaurant",
+      "priceRange": "₱80 – ₱250 / person",
+      "contact": { "phone": "+63 900 000 0004", "email": "coffee@example.com", "address": "Municipal Plaza, Poblacion" },
+      "images": ["https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80&auto=format&fit=crop"],
+      "rating": 4.5
+    },
+    {
+      "slug": "highland-trails-tours",
+      "name": "Highland Trails Tours",
+      "description": "Licensed local guides for ridge hikes, falls treks and stargazing nights. Transport from the town proper included.",
+      "category": "transportation",
+      "priceRange": "From ₱500 / person",
+      "contact": { "phone": "+63 900 000 0005", "email": "tours@example.com", "address": "Poblacion, Don Carlos" },
+      "images": ["https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80&auto=format&fit=crop"],
+      "rating": 4.9
+    }
+  ]
+}
